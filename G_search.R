@@ -2,7 +2,7 @@ library(rvest)
 library(XML)
 library(RCurl)
 
-## https://stackoverflow.com/questions/32889136/how-to-get-google-search-results
+## https://stackoverflow.com/questions/32889136/how-to-get-google-search-results ###
 
 #****************************************************************************
 ## 1. Obtener enlaces F290 ####
